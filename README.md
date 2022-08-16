@@ -6,7 +6,7 @@
 
 ## DESCRIÇÃO DO PROJETO:
 
-O aplicativo  pertencente a Zup tem como objetivo agilizar o fluxo de pedidos rem restaurantes afim de exigir menos a presença do garçon e oferecer uma experiencia personalizada ao cliente que de maneira intuitiva poe ver detalhes do prato, valores e pode solicitar ele mesmo quando assim decidir. Dentre as funcionalidades da aplicação está a abertura da comanda via qrcode, acesso  ao cardapio,  inserção de itens em seu pedido, criação edição de lista de favoritos contendo pratos preferidos, fechamento da conta e solicitação para que o garço traga a mesma para pagamento.
+O aplicativo  pertencente a Zup tem como objetivo agilizar o fluxo de pedidos em restaurantes afim de exigir menos a presença do garçon e oferecer uma experiencia personalizada ao cliente que de maneira intuitiva pode ver detalhes do prato, valores e podendo realizar ele mesmo seu pedido quando  decidir. Dentre as funcionalidades da aplicação está a abertura da comanda via qrcode, acesso  ao cardapio,  inserção de itens em seu pedido, criação edição de lista de favoritos contendo pratos preferidos, fechamento da conta e solicitação para que o garço traga a mesma para pagamento.
 
 ## STATUS DO PROJETO:
 
